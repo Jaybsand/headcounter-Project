@@ -1,5 +1,4 @@
 # headcounter-Project
----
 
 . This Project is apart of the Scrumba.com java script course I am taking
  
